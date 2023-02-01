@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+        <body>
+
+            <?php 
+            Echo "Hello fucked up world";
+            ?>
+
+            
+        </body>
+    </head>
+</html>
